@@ -34,3 +34,5 @@ console.log(checkAir(
     ['clean', 'dirty', 'dirty', 'dirty', 'dirty', 'dirty', 'clean'],
     0.9
 ))
+
+//TEST TEST 
