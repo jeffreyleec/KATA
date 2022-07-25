@@ -1,0 +1,5 @@
+all functions created. need to put tgt. 
+console - the board 
+
+test - false - untill true 
+test all functions 
